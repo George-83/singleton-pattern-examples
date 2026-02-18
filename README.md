@@ -62,14 +62,7 @@ All implementations:
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
-
-MIT is chosen because:
-- it is simple and permissive
-- suitable for learning and personal projects
-- allows reuse without restrictions
-
-You are free to use, copy, modify, and share this code.
+This project is released into the public domain under The Unlicense. You are free to use, copy, modify, and share this code.
 
 ---
 
